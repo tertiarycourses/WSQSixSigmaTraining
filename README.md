@@ -1,4 +1,4 @@
-# Python GUI Development with Tkinter Training
+# WSQ - Process Performance Improvement using Six Sigma Methodology
 ## by [Tertiary  Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [WSQ - Process Performance Improvement using Six Sigma Methodology](https://www.tertiarycourses.com.sg/wsq-six-sigma-course.html) course. 
